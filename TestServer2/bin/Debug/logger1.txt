@@ -1,0 +1,2329 @@
+Waiting.... Server IP : 127.0.0.1
+Connected! Client : 127.0.0.1		2022년 6월 22일 수요일 오후 3:27:53
+
+Message From Client 127.0.0.1 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 127.0.0.1 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 127.0.0.1 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 127.0.0.1 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 127.0.0.1 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 127.0.0.1 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 127.0.0.1 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 127.0.0.1 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 127.0.0.1 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 127.0.0.1 : refresh
+Sent Message : 36.20 40 1019
+
+Message From Client 127.0.0.1 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 127.0.0.1 : refresh
+Sent Message : 36.20 40 1020
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 3:28:03
+Message From Client 127.0.0.1 : refresh
+Connected! Client : 127.0.0.1		2022년 6월 22일 수요일 오후 3:28:17
+
+Message From Client 127.0.0.1 : refresh
+Sent Message : 36.20 40 1019
+
+Message From Client 127.0.0.1 : Humid 0
+Sent Message : Set Watering Humid to 0.
+
+Message From Client 127.0.0.1 : water 0
+Connected! Client : 127.0.0.1		2022년 6월 22일 수요일 오후 3:28:33
+
+Message From Client 127.0.0.1 : refresh
+Sent Message : 36.20 40 1019
+
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 3:28:44
+Message From Client 127.0.0.1 : Humid 0
+Sent Message : Set Watering Humid to 0.
+
+Message From Client 127.0.0.1 : refresh
+Connected! Client : 127.0.0.1		2022년 6월 22일 수요일 오후 3:29:08
+
+Message From Client 127.0.0.1 : refresh
+Sent Message : 36.20 40 1019
+
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 3:29:19
+Message From Client 127.0.0.1 : Humid 1
+Sent Message : Set Watering Humid to 1.
+
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 3:29:29
+Waiting.... Server IP : 192.168.0.176
+Connected! Client : 192.168.0.176		2022년 6월 22일 수요일 오후 4:28:54
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:28:55
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:29:05
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:29:15
+Message From Client 192.168.0.176 : stop
+Sent Message : stop
+
+Waiting.... Server IP : 192.168.0.176
+Connected! Client : 192.168.0.176		2022년 6월 22일 수요일 오후 4:30:15
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:30:16
+Waiting.... Server IP : 192.168.0.176
+Connected! Client : 192.168.0.176		2022년 6월 22일 수요일 오후 4:31:19
+
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 4:31:19
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:31:20
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 4:31:21
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 4:31:22
+Waiting.... Server IP : 192.168.0.176
+Connected! Client : 192.168.0.176		2022년 6월 22일 수요일 오후 4:32:37
+
+Connected! Client : 192.168.0.176		2022년 6월 22일 수요일 오후 4:32:38
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:32:39
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:32:40
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:32:41
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:32:42
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 4:32:43
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 4:32:44
+Waiting.... Server IP : 192.168.0.176
+Connected! Client : 192.168.0.176		2022년 6월 22일 수요일 오후 4:33:50
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 4:34:10
+Message From Client 192.168.0.176 : Humid 10
+Sent Message : Set Watering Humid to 10.
+
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 4:34:30
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Waiting.... Server IP : 192.168.0.176
+Connected! Client : 192.168.0.176		2022년 6월 22일 수요일 오후 4:34:57
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1020
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1020
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1020
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1020
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Waiting.... Server IP : 192.168.0.176
+Connected! Client : 192.168.0.176		2022년 6월 22일 수요일 오후 4:36:37
+
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 4:36:57
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:37:17
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 4:37:37
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 4:37:57
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:38:17
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 4:38:37
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 4:38:57
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:39:17
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 4:39:37
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 4:39:57
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 4:40:17
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:40:37
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:40:57
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:41:17
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:41:37
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:41:57
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 4:42:17
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 4:42:37
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 4:42:57
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 4:43:17
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 4:43:37
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 4:43:57
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:44:17
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:44:37
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:44:58
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 4:45:18
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:45:38
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:45:58
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:46:18
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 4:46:38
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:46:58
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:47:18
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:47:38
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:47:58
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 4:48:18
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 4:48:38
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:48:58
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:49:18
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:49:38
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:49:58
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 4:50:18
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:50:38
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:50:58
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 4:51:18
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:51:38
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 4:51:58
+Sensor Data : 36.20 40 10202022년 6월 22일 수요일 오후 4:52:18
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 4:52:38
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 4:52:58
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 4:53:18
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 4:53:38
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:53:58
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:54:18
+Connected! Client : 192.168.0.176		2022년 6월 22일 수요일 오후 4:54:34
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 4:54:38
+Message From Client 192.168.0.176 : Humid 10
+Sent Message : Set Watering Humid to 10.
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1020
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1020
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1020
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1020
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1020
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1019
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1020
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1019
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Connected! Client : 192.168.0.176		2022년 6월 22일 수요일 오후 4:54:58
+
+Message From Client 192.168.0.176 : water 0
+Sent Message : Run Pump For 0 Seconds
+
+Message From Client 192.168.0.176 : Humid 10
+Sent Message : Set Watering Humid to 10.
+
+Message From Client 192.168.0.176 : water 0
+Sent Message : Run Pump For 0 Seconds
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Waiting.... Server IP : 192.168.0.176
+Connected! Client : 192.168.0.176		2022년 6월 22일 수요일 오후 4:57:16
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1020
+
+Waiting.... Server IP : 192.168.0.176
+Connected! Client : 192.168.0.176		2022년 6월 22일 수요일 오후 4:59:16
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1020
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1020
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1020
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1020
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1020
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1020
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1019
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1020
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1020
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Waiting.... Server IP : 192.168.0.176
+Connected! Client : 192.168.0.176		2022년 6월 22일 수요일 오후 5:00:11
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Waiting.... Server IP : 192.168.0.176
+Connected! Client : 192.168.0.176		2022년 6월 22일 수요일 오후 5:00:48
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : water 0
+Sent Message : Run Pump For 0 Seconds
+
+Message From Client 192.168.0.176 : Humid 0
+Sent Message : Set Watering Humid to 0.
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Waiting.... Server IP : 192.168.0.176
+Connected! Client : 192.168.0.176		2022년 6월 22일 수요일 오후 5:01:33
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:01:34
+Message From Client 192.168.0.176 : refresh
+Connected! Client : 52.166.194.86		2022년 6월 22일 수요일 오후 5:01:49
+
+Message From Client 52.166.194.86 :   ���9��{��q��&�
+Sent Message :   ���9��{��q��&�
+
+Message From Client 52.166.194.86 : �����"�j( ʐ  p�0�,�2�.�/�+�1�- � � � ��(�$��
+�
+Sent Message : �����"�j( ʐ  p�0�,�2�.�/�+�1�- � � � ��(�$��
+�
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:01:51
+Waiting.... Server IP : 192.168.0.176
+Connected! Client : 192.168.0.176		2022년 6월 22일 수요일 오후 5:02:45
+
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:02:46
+Message From Client 192.168.0.176 : refresh
+Waiting.... Server IP : 192.168.0.176
+Connected! Client : 192.168.0.176		2022년 6월 22일 수요일 오후 5:04:43
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:04:44
+Message From Client 192.168.0.176 : refresh
+Waiting.... Server IP : 192.168.0.176
+Connected! Client : 192.168.0.176		2022년 6월 22일 수요일 오후 5:05:27
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:05:28
+Message From Client 192.168.0.176 : refresh
+Waiting.... Server IP : 192.168.0.176
+Connected! Client : 192.168.0.176		2022년 6월 22일 수요일 오후 5:06:38
+
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:06:39
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:06:40
+Sensor Data : 36.20 40 10202022년 6월 22일 수요일 오후 5:06:41
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:06:42
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1020
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:06:43
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1020
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:06:45
+Message From Client 192.168.0.176 : refresh
+Sent Message : 40 1022
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:06:46
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:06:47
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:06:48
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:06:49
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:06:50
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:06:51
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:06:52
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:06:53
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:06:54
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:06:55
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:06:56
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:06:57
+Sent Message : 36.20 40 1020
+
+Message From Client 192.168.0.176 : water 0
+Sent Message : Run Pump For 0 Seconds
+
+Message From Client 192.168.0.176 : Humid 0
+Sent Message : Set Watering Humid to 0.
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:07:01
+Sent Message : 36.20 40 1023
+
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:07:02
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:07:03
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:07:04
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:07:05
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:07:06
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:07:07
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:07:07
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:07:08
+Sent Message : 36.20 40 1020
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:07:09
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:07:10
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:07:11
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:07:12
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:07:13
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:07:14
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:07:15
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:07:16
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:07:17
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:07:18
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:07:19
+Sent Message : 36.20 40 1020
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:07:20
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:07:21
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:07:22
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:07:23
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:07:24
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:07:25
+Waiting.... Server IP : 192.168.0.176
+Connected! Client : 192.168.0.176		2022년 6월 22일 수요일 오후 5:08:22
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:08:23
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:08:24
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:08:25
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:08:26
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:08:27
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:08:28
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:08:29
+Message From Client 192.168.0.176 : Humid 0
+Sent Message : Set Watering Humid to 0.
+
+Sensor Data : 620 40 10232022년 6월 22일 수요일 오후 5:08:32
+Sensor Data : 3.20 40 10232022년 6월 22일 수요일 오후 5:08:33
+Sensor Data : 203620 40 10232022년 6월 22일 수요일 오후 5:08:34
+Sensor Data : 3.20 40 10232022년 6월 22일 수요일 오후 5:08:35
+Message From Client 192.168.0.176 : Humid 10
+Sent Message : Set Watering Humid to 10.
+
+Sensor Data : 636.20 40 10212022년 6월 22일 수요일 오후 5:08:37
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:08:39
+Sensor Data : 36.20 40 10202022년 6월 22일 수요일 오후 5:08:39
+Message From Client 192.168.0.176 : water 1
+Sent Message : Run Pump For 1 Seconds
+
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:08:42
+Sensor Data : 36.20 40 10202022년 6월 22일 수요일 오후 5:08:43
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:08:44
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:08:45
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:08:46
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:08:47
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:08:48
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:08:49
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:08:50
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:08:51
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:08:52
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:08:53
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:08:54
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:08:55
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:08:56
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:08:57
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:08:58
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:08:59
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:09:00
+Sensor Data : 36.20 40 10192022년 6월 22일 수요일 오후 5:09:01
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:02
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:03
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:04
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:09:05
+Sensor Data : 36.20 40 10202022년 6월 22일 수요일 오후 5:09:06
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:07
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:08
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:09:09
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:10
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:11
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:09:12
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:09:13
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:14
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:15
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:16
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:09:17
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:09:18
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:09:19
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:20
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:21
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:09:22
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:09:23
+Sensor Data : 36.20 40 10202022년 6월 22일 수요일 오후 5:09:24
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:09:25
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:26
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:27
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:09:28
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:09:29
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:09:30
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:09:31
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:32
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:09:33
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:34
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:35
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:36
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:37
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:38
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:39
+Sensor Data : 36.20 40 10202022년 6월 22일 수요일 오후 5:09:40
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:09:41
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:42
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:43
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:44
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:45
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:46
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:47
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:09:48
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:09:49
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:09:50
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:51
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:09:52
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:09:53
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:54
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:55
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:56
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:57
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:58
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:09:59
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:00
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:10:01
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:02
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:10:03
+Sensor Data : 36.20 40 10202022년 6월 22일 수요일 오후 5:10:04
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:10:05
+Sensor Data : 36.20 40 10202022년 6월 22일 수요일 오후 5:10:06
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:07
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:08
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:10:09
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:10
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:10:11
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:12
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:10:13
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:10:14
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:10:15
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:16
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:17
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:10:18
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:19
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:10:20
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:21
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:22
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:23
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:24
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:10:25
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:26
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:27
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:28
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:10:29
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:30
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:10:31
+Sensor Data : 36.20 40 10202022년 6월 22일 수요일 오후 5:10:32
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:10:33
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:34
+Sensor Data : 36.20 40 10202022년 6월 22일 수요일 오후 5:10:35
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:36
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:37
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:10:38
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:39
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:40
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:41
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:42
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:10:43
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:45
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:10:45
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:46
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:48
+Sensor Data : 36.20 40 10202022년 6월 22일 수요일 오후 5:10:49
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:50
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:10:51
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:52
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:53
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:10:54
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:55
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:56
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:10:57
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:10:58
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:10:59
+Sensor Data : 36.20 40 10192022년 6월 22일 수요일 오후 5:11:00
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:11:01
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:11:02
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:11:03
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:11:04
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:11:05
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:11:06
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:11:07
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:11:08
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:11:09
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:11:10
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:11:11
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:11:12
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:11:13
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:11:13
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:11:15
+Sent Message : 36.20 40 1023
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:11:16
+Message From Client 192.168.0.176 : Humid 10
+Sent Message : Set Watering Humid to 10.
+
+Message From Client 192.168.0.176 : Humid 10
+Sent Message : Set Watering Humid to 10.
+
+Message From Client 192.168.0.176 : Humid 10
+Sent Message : Set Watering Humid to 10.
+
+Message From Client 192.168.0.176 : Humid 10
+Sent Message : Set Watering Humid to 10.
+
+Message From Client 192.168.0.176 : Humid 10
+Sent Message : Set Watering Humid to 10.
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:11:19
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:11:19
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:11:20
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:11:21
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:11:22
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:11:23
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:11:24
+Waiting.... Server IP : 192.168.0.176
+Connected! Client : 192.168.0.176		2022년 6월 22일 수요일 오후 5:11:59
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:12:00
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:12:01
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:12:02
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:12:03
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:12:04
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:12:05
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:12:06
+Message From Client 192.168.0.176 : Humid 10
+Sent Message : Set Watering Humid to 10.
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:12:08
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:12:09
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:12:09
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:12:10
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:12:11
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:12:12
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:12:13
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:12:14
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:12:15
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:12:16
+Sent Message : 36.20 40 1022
+
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:12:18
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:12:19
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:12:20
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:12:21
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:12:22
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:12:23
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:12:24
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:12:25
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:12:26
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:12:27
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:12:28
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:12:29
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:12:30
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:12:31
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:12:32
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:12:33
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:12:34
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:12:35
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:12:36
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:12:37
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:12:38
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:12:39
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:12:40
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:12:41
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:12:42
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:12:44
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:12:44
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:12:45
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:12:47
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:12:48
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:12:49
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:12:50
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:12:51
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:12:52
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:12:53
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:12:54
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:12:55
+Sensor Data : 36.20 40 10202022년 6월 22일 수요일 오후 5:12:56
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:12:57
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:12:58
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:12:59
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:13:00
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:01
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:13:02
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:13:03
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:13:04
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:05
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:06
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:13:07
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:08
+Sensor Data : 36.20 40 10202022년 6월 22일 수요일 오후 5:13:09
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:10
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:13:11
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:12
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:13:13
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:14
+Sensor Data : 36.20 40 10202022년 6월 22일 수요일 오후 5:13:15
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:16
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:17
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:13:18
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:19
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:13:20
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:21
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:13:22
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:13:23
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:24
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:25
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:26
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:13:27
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:13:28
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:29
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:30
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:13:31
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:13:32
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:13:33
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:34
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:35
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:13:36
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:37
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:38
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:39
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:40
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:41
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:13:42
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:43
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:44
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:45
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:13:46
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:47
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:13:48
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:49
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:50
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:13:51
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:52
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:13:53
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:13:54
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:55
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:13:56
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:57
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:13:58
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:13:59
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:14:00
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:14:01
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:14:02
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:14:03
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:14:04
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:14:05
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:14:06
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:14:07
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:14:08
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:14:09
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:14:10
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:14:11
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:14:12
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:14:13
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:14:14
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:14:15
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:14:16
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:14:17
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:14:18
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:14:19
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:14:20
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:14:21
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:14:22
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:14:23
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:14:24
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:14:25
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:14:26
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:14:27
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:14:28
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:14:29
+Sensor Data : 36.20 40 10202022년 6월 22일 수요일 오후 5:14:30
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:14:31
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:14:32
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:14:33
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:14:34
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:14:35
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:14:36
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:14:37
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:14:38
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:14:39
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:14:40
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:14:41
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:14:42
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:14:43
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:14:44
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:14:45
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:14:46
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:14:47
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:14:48
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:14:49
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:14:51
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:14:51
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:14:52
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:14:54
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:14:54
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:14:56
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:14:56
+Sent Message : 36.20 40 1022
+
+Sensor Data : 36.20 40 10202022년 6월 22일 수요일 오후 5:14:58
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:14:59
+Sensor Data : 36.20 40 10202022년 6월 22일 수요일 오후 5:15:00
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:01
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:02
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:03
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:04
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:15:05
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:06
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:15:07
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:08
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:09
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:10
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:15:11
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:15:12
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:15:13
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:14
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:15:15
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:16
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:15:17
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:18
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:19
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:15:20
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:21
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:15:22
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:15:23
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:24
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:25
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:26
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:27
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:15:28
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:29
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:30
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:15:31
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:15:32
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:33
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:34
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:35
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:36
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:37
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:38
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:15:39
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:15:40
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:15:41
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:42
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:43
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:15:44
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:45
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:46
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:47
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:48
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:49
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:50
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:51
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:52
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:53
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:15:54
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:15:55
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:56
+Sensor Data : 36.20 40 10202022년 6월 22일 수요일 오후 5:15:57
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:58
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:15:59
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:00
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:01
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:02
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:03
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:04
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:05
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:16:06
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:07
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:08
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:09
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:16:10
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:11
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:16:12
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:13
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:16:14
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:16:15
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:16:16
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:16:17
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:18
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:16:19
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:20
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:21
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:16:22
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:23
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:16:24
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:16:25
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:16:26
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:27
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:16:28
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:29
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:16:30
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:31
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:32
+Sensor Data : 36.20 40 10202022년 6월 22일 수요일 오후 5:16:33
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:34
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:35
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:36
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:16:37
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:16:38
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:16:39
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:16:40
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:16:41
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:42
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:16:43
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:44
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:16:45
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:46
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:16:47
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:48
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:16:49
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:16:50
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:51
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:16:52
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:53
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:54
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:55
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:57
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:57
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:16:58
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:17:00
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:17:01
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:17:02
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:17:03
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:17:04
+Sensor Data : 36.20 40 10202022년 6월 22일 수요일 오후 5:17:05
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:17:06
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:17:07
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:17:08
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:17:09
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:17:10
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:17:11
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:17:12
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:17:13
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:17:14
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:17:15
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:17:16
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:17:17
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:17:18
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:17:19
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:17:20
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:17:21
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:17:22
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:17:23
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:17:24
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:17:25
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:17:26
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:17:27
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:17:28
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:17:29
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:17:30
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:17:31
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:17:32
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:17:33
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:17:34
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:17:35
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:17:36
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:17:37
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:17:38
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:17:39
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:17:40
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:17:41
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:17:42
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:17:43
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:17:44
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:17:45
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:17:46
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:17:47
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:17:48
+Sensor Data : 36.20 40 10192022년 6월 22일 수요일 오후 5:17:49
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:17:50
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:17:51
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:17:52
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:17:53
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:17:54
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:17:55
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:17:56
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:17:57
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:17:58
+Sensor Data : 36.20 40 10202022년 6월 22일 수요일 오후 5:17:59
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:00
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:18:01
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:18:02
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:18:03
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:04
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:18:05
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:06
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:07
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:18:08
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:09
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:18:10
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:18:11
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:18:12
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:13
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:18:14
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:15
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:16
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:18:17
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:18:18
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:19
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:18:20
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:21
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:22
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:23
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:18:24
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:25
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:26
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:27
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:18:28
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:29
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:30
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:18:31
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:32
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:33
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:34
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:35
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:36
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:37
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:18:38
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:39
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:18:40
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:41
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:42
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:18:43
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:18:44
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:18:45
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:46
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:18:47
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:48
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:18:49
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:50
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:51
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:18:52
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:53
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:18:54
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:55
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:18:56
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:18:57
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:18:58
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:18:59
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:19:00
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:19:01
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:19:02
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:19:04
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:19:04
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:19:05
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:19:07
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:19:08
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:19:09
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:19:10
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:19:11
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:19:12
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:19:13
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:19:14
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:19:15
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:19:16
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:19:17
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:19:18
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:19:19
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:19:20
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:19:21
+Sensor Data : 36.20 40 10202022년 6월 22일 수요일 오후 5:19:22
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:19:23
+Sensor Data : 36.20 40 10192022년 6월 22일 수요일 오후 5:19:24
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:19:25
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:19:26
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:19:27
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:19:28
+Waiting.... Server IP : 192.168.0.176
+Connected! Client : 192.168.0.176		2022년 6월 22일 수요일 오후 5:19:38
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:19:39
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:19:41
+Message From Client 192.168.0.176 : stop
+Sent Message : stop
+
+Waiting.... Server IP : 192.168.0.176
+Connected! Client : 192.168.0.176		2022년 6월 22일 수요일 오후 5:21:17
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:21:18
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:21:19
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:21:20
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:21:21
+Message From Client 192.168.0.176 : stop
+Sent Message : stop
+
+Waiting.... Server IP : 192.168.0.176
+Connected! Client : 192.168.0.176		2022년 6월 22일 수요일 오후 5:21:41
+
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:21:43
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:21:44
+Sent Message : 36.20 40 1021
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:21:45
+Message From Client 192.168.0.176 : stop
+Sent Message : stop
+
+Waiting.... Server IP : 192.168.0.176
+Connected! Client : 192.168.0.176		2022년 6월 22일 수요일 오후 5:22:21
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:22:23
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:22:24
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:22:25
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:22:26
+Message From Client 192.168.0.176 : water 0
+Sent Message : Run Pump For 0 Seconds
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:22:27
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:22:29
+Message From Client 192.168.0.176 : Humid 0
+Sent Message : Set Watering Humid to 0.
+
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:22:31
+Message From Client 192.168.0.176 : stop
+Sent Message : stop
+
+Waiting.... Server IP : 192.168.0.176
+Connected! Client : 192.168.0.176		2022년 6월 22일 수요일 오후 5:23:31
+
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:23:32
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:23:33
+Message From Client 192.168.0.176 : stop
+Sent Message : stop
+
+Waiting.... Server IP : 192.168.0.176
+Connected! Client : 192.168.0.176		2022년 6월 22일 수요일 오후 5:24:26
+
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:24:28
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:24:29
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:24:30
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:24:31
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:24:32
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:24:33
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:24:34
+Message From Client 192.168.0.176 : water 0
+Sent Message : Run Pump For 0 Seconds
+
+Message From Client 192.168.0.176 : Humid 0
+Sent Message : Set Watering Humid to 0.
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:24:36
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:24:37
+Sent Message : 36.20 40 1021
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:24:38
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:24:39
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:24:40
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10202022년 6월 22일 수요일 오후 5:24:41
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:24:42
+Sent Message : 36.20 40 1023
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:24:43
+Sent Message : 36.20 40 1022
+
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:24:44
+Sent Message : 36.20 40 1023
+
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:24:46
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:24:47
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:24:48
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:24:49
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:24:50
+Message From Client 192.168.0.176 : refresh
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:24:50
+Sent Message : 36.20 40 1022
+
+Sensor Data : 36.20 40 10202022년 6월 22일 수요일 오후 5:24:52
+Message From Client 192.168.0.176 : stop
+Sent Message : stop
+
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:24:53
+Sensor Data : 36.20 40 10202022년 6월 22일 수요일 오후 5:24:54
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:24:55
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:24:56
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:24:57
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:24:58
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:24:59
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:25:00
+Waiting.... Server IP : 192.168.0.176
+Connected! Client : 192.168.0.176		2022년 6월 22일 수요일 오후 5:25:32
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:25:33
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:25:34
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1021
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:25:35
+Message From Client 192.168.0.176 : water 0
+Sent Message : Run Pump For 0 Seconds
+
+Message From Client 192.168.0.176 : Humid 0
+Sent Message : Set Watering Humid to 0.
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:25:36
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:25:38
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:25:39
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:25:40
+Message From Client 192.168.0.176 : stop
+Sent Message : stop
+
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:25:41
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:25:42
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:25:43
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:25:44
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:25:45
+Waiting.... Server IP : 192.168.0.176
+Connected! Client : 192.168.0.176		2022년 6월 22일 수요일 오후 5:29:10
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:29:11
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:29:12
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1022
+
+Sensor Data : 36.20 40 10192022년 6월 22일 수요일 오후 5:29:13
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:29:14
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:29:15
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:29:16
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:29:17
+Message From Client 192.168.0.176 : stop
+Sent Message : stop
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:29:18
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:29:19
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:29:20
+Sensor Data : 36.20 40 10202022년 6월 22일 수요일 오후 5:29:21
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:29:22
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:29:23
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:29:24
+Connected! Client : 192.168.0.176		2022년 6월 22일 수요일 오후 5:29:25
+
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:29:25
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:29:26
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:29:26
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:29:27
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:29:27
+Message From Client 192.168.0.176 : refresh
+Sent Message : 36.20 40 1023
+
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:29:28
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:29:28
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:29:29
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:29:29
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:29:30
+Sensor Data : 36.20 40 10232022년 6월 22일 수요일 오후 5:29:30
+Sensor Data : 36.20 40 10222022년 6월 22일 수요일 오후 5:29:31
+Sensor Data : 36.20 40 10212022년 6월 22일 수요일 오후 5:29:31

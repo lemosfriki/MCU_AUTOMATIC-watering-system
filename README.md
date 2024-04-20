@@ -27,13 +27,19 @@
 9. 추가적으로 각 시스템의 결과값을 파일로 저장하여, 실제 시스템이 구동되는 방식을 확인
 10. C#과 안드로이드 부문의 GUI가 사용자가 직관적으로 보기 편하게 구성이 되도록 구현
 
-### 프로젝트 구현 및 실행 영상 
+
+
+## 프로젝트 구현 및 실행 영상 
 
 <iframe width="1261" height="719" src="https://www.youtube.com/embed/pJDVBZhRzws" title="AUTOMATIC watering system with arduino 프로젝트 결과" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### 프로젝트 추진 일정(간트 차트)
+
+
+## 프로젝트 추진 일정(간트 차트)
 
 ![image](https://github.com/lemosfriki/MCU_AUTOMATIC-watering-system/assets/115825244/622965ee-3c6a-4709-8d92-69132e9e8d63)
+
+## 프로젝트 구성
 
 ### 시스템 구성 (하드웨어 설계 회로도)
 
@@ -43,7 +49,9 @@
 
 ![image](https://github.com/lemosfriki/MCU_AUTOMATIC-watering-system/assets/115825244/3b793237-fc11-4be7-9f66-8c4614cebe04)
 
-### C# GUI 및 안드로이드 GUI
+
+
+## C# GUI 및 안드로이드 GUI
 
 C# PC 클라이언트 GUI 
 ![image](https://github.com/lemosfriki/MCU_AUTOMATIC-watering-system/assets/115825244/8d4ef35f-9d93-4567-989d-a71de582d072)
@@ -52,5 +60,5 @@ C# PC 클라이언트 GUI
 안드로이드 GUI
 ![image](https://github.com/lemosfriki/MCU_AUTOMATIC-watering-system/assets/115825244/95f340fa-52d4-4da8-a9c4-fd7ad825809e)
 
-### 실행 유의사항
+## 실행 유의사항
 다운로드 시 final_project내 안드로이드 파일 실행 시 [design editor is unavailable until next gradle sync] 오류가 발생하면 하위 파일 MCU_DB_1 2로 폴더를 오픈하면 해결

@@ -31,6 +31,8 @@
 
 ## 프로젝트 구현 및 실행 영상 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pJDVBZhRzws?si=q6zMMzw6oJCVTL2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [![Video Label](http://img.youtube.com/vi/pJDVBZhRzws/0.jpg)](https://youtu.be/pJDVBZhRzws)
 
 

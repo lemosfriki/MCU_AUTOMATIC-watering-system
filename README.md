@@ -31,7 +31,7 @@
 
 ## 프로젝트 구현 및 실행 영상 
 
-<iframe width="1261" height="719" src="https://www.youtube.com/embed/pJDVBZhRzws" title="AUTOMATIC watering system with arduino 프로젝트 결과" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Video Label](http://img.youtube.com/vi/pJDVBZhRzws/0.jpg)](https://youtu.be/pJDVBZhRzws)
 
 
 

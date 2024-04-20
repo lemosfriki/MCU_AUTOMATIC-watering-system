@@ -53,11 +53,11 @@
 
 ## C# GUI 및 안드로이드 GUI
 
-C# PC 클라이언트 GUI 
+### C# PC 클라이언트 GUI 
 ![image](https://github.com/lemosfriki/MCU_AUTOMATIC-watering-system/assets/115825244/8d4ef35f-9d93-4567-989d-a71de582d072)
 
 
-안드로이드 GUI
+### 안드로이드 GUI
 ![image](https://github.com/lemosfriki/MCU_AUTOMATIC-watering-system/assets/115825244/95f340fa-52d4-4da8-a9c4-fd7ad825809e)
 
 ## 실행 유의사항

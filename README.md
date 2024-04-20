@@ -31,8 +31,6 @@
 
 ## 프로젝트 구현 및 실행 영상 
 
-{% include video id="pJDVBZhRzws" provider="youtube" %}
-
 [![Video Label](http://img.youtube.com/vi/pJDVBZhRzws/0.jpg)](https://youtu.be/pJDVBZhRzws)
 
 

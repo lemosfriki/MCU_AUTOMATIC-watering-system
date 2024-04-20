@@ -62,3 +62,20 @@
 
 ## 실행 유의사항
 다운로드 시 final_project내 안드로이드 파일 실행 시 [design editor is unavailable until next gradle sync] 오류가 발생하면 하위 파일 MCU_DB_1 2로 폴더를 오픈하면 해결
+
+## 구성 파일 설명
+
+### MCU_Work7_WinClient
+
+C# 윈도우 클라이언트 소스코드
+
+### TestServer2
+
+C# 윈도우 서버 소스코드
+### final_project/graph_start/MCU_DB_1 2
+
+안드로이드 클라이언트 소스코드
+
+### motortest
+
+아두이노 소스코드
